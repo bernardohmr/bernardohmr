@@ -1,7 +1,4 @@
-Desenvolvedor Full Stack e Engenheiro Mecatrônico, com conhecimentos em backend, frontend e mobile.
-Dedicação, resiliência e criatividade são algumas das minhas características.
-Eu também tenho habilidades como facilidade de lidar com pessoas, liderar e ser liderado.
-Estou aprendendo continuamente, procurando livros, cursos e pessoas que possam me ensinar.
+Desenvolvedor Full Stack e Engenheiro Mecatrônico, com conhecimentos em backend, frontend e mobile. Dedicação, resiliência e criatividade são algumas das minhas características. Eu também tenho habilidades como facilidade de lidar com pessoas, liderar e ser liderado. Estou aprendendo continuamente, procurando livros, cursos e pessoas que possam me ensinar.
 
 +55 34 99908-1860
 bernardohmr@gmail.com
