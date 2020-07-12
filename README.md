@@ -11,7 +11,7 @@ NodeJS | Typescript | MongoDB | ReactJS | React Native | PostgreSQL | TypeORM
 <br/>
 :email: bernardohmr@gmail.com
 
-## Currículo:
+## Resume:
 https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227
 
 <hr/>
@@ -29,5 +29,5 @@ NodeJS | Typescript | MongoDB | ReactJS | React Native | PostgreSQL | TypeORM
 <br/>
 :email: bernardohmr@gmail.com
 
-## Resume:
+## Currículo:
 https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227 
