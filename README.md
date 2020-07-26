@@ -14,6 +14,9 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 <br/>
 :email: bernardohmr@gmail.com
 
+## Current Position:
+Backend Developer at GIRA: www.gira.com.br
+
 ## Resume:
 https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227
 
@@ -34,6 +37,9 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 :telephone_receiver: +55 34 99908-1860
 <br/>
 :email: bernardohmr@gmail.com
+
+## Atualmente:
+Desenvolvedor Backend no GIRA: www.gira.com.br
 
 ## Currículo:
 https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227 
