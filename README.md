@@ -17,8 +17,6 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 ## Current Position:
 Tech Lead at GIRA: www.gira.com.br @giraapp
 
-## Resume:
-https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227
 
 <hr/>
 
@@ -41,5 +39,3 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 ## Atualmente:
 Tech Lead no GIRA: www.gira.com.br @giraapp
 
-## Currículo:
-https://www.notion.so/Bernardo-Rodrigues-5b983ca9dabc43f6b852a573b114a227 
