@@ -16,26 +16,3 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 
 ## Current Position:
 Tech Lead at GIRA: www.gira.com.br @giraapp
-
-
-<hr/>
-
-# Olá!
-
-## Quem Sou Eu:
-Desenvolvedor Full Stack e Engenheiro Mecatrônico, com conhecimentos em backend, frontend e mobile. Dedicação, resiliência e criatividade são algumas das minhas características. Eu também tenho habilidades como facilidade de lidar com pessoas, liderar e ser liderado. Estou aprendendo continuamente, procurando livros, cursos e pessoas que possam me ensinar.
-
-## Principais Techs:
-NodeJS | Typescript | MongoDB | Parse Platform | ReactJS | React Native
-
-## Outros Conhecimentos:
-VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
-
-## Contato:
-:telephone_receiver: +55 34 99908-1860
-<br/>
-:email: bernardohmr@gmail.com
-
-## Atualmente:
-Tech Lead no GIRA: www.gira.com.br @giraapp
-
