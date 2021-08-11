@@ -13,6 +13,8 @@ VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 :telephone_receiver: +55 34 99908-1860
 <br/>
 :email: bernardohmr@gmail.com
+<br/>
+:linkedin: linkedin.com/in/bernardohmr/
 
 ## Current Position:
 Tech Lead at GIRA: www.gira.com.br @giraapp
