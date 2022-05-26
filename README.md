@@ -10,9 +10,6 @@ NodeJS | Typescript | MongoDB | Parse Platform | ReactJS | React Native
 VueJS | SQL | PostgreSQL | TypeORM | Docker | JestJS | TDD | SOLID | Git
 
 ## Contact:
-:telephone_receiver: +55 34 99908-1860
-<br/>
-:email: bernardohmr@gmail.com
 <br/>
 :business_suit_levitating: linkedin.com/in/bernardohmr/
 
