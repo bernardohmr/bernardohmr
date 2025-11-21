@@ -1,7 +1,13 @@
 # Bernardo Rodrigues
 
 ## Who I Am:
-AI Engineer, Full Stack Developer and Mechatronic Engineer, with knowledge in LLMs, Agentic AI, Orchestration, Observability, Security, back-end, front-end and mobile. Dedication, resilience and creativity are some of my characteristics. I am continuously learning, looking for books, courses and people who can teach me.
+Senior Software Engineer with 8+ years of experience building scalable backend systems,
+APIs, mobile applications, and full-stack platforms. Strong background in Typescript,
+Javascript, Node, React, React Native, MongoDB, PostgreSQL, and cloud deployments.
+Former Tech Lead at Santander (Gira) responsible for architecture decisions, code
+standards, and team technical direction. Founder and sole developer of Flashed, an
+educational app with 300,000+ downloads. Passionate about delivering high-quality
+products.
 
 ## Contact:
 <br/>
